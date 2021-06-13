@@ -1,7 +1,6 @@
 import { Provider } from "react-redux"
 import { store } from "../app/store"
 import '../styles/globals.css'
-import '../styles/style.css'
 import { Provider as AuthProvider } from "next-auth/client"; 
 
 function MyApp({ Component, pageProps }) {
