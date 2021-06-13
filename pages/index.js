@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Header from '../Components/Header';
-import Nav from '../Components/Nav';
 import Banner from "../Components/Banner";
 import ProductFeed from "../Components/ProductFeed";
 import CategoryTab from "../Components/CategoryTab";
