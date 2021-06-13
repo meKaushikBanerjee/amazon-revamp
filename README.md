@@ -9,7 +9,7 @@
 
 > Amazon redesign with a new UI, complete E-Commerce functionality including Payment Processing (Stripe API) and User Authentication (Firebase).
 
-### ✨ [Demo]/*(https://amazon-ish.vercel.app)*/
+### ✨ [Demo]
 
 ## Author
 
