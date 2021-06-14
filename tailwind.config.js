@@ -1,7 +1,6 @@
-// tailwind.config.js
 module.exports = {
-  purge: [],
-  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  mode: "jit",  // just intime compiler its is a tool
+  purge: ["./pages/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],  //this is use to remove the unwanted css code from tailwind css
     darkMode: false, // or 'media' or 'class'
     theme: {
       extend: {
