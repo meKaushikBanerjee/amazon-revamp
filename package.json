@@ -25,9 +25,6 @@
     "tailwindcss": "^2.1.2"
   },
   "devDependencies": {
-    "@tailwindcss/jit": "^0.1.18",
-    "autoprefixer": "^10.2.6",
-    "postcss": "^8.3.0",
-    "postcss-preset-env": "^6.7.0"
+    "@tailwindcss/jit": "^0.1.18"
   }
 }
