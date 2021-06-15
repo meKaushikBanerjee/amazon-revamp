@@ -21,12 +21,11 @@
     "react-responsive-carousel": "^3.2.18",
     "reactstrap": "^8.9.0",
     "redux": "^4.1.0",
-    "redux-thunk": "^2.3.0",
-    "tailwindcss": "^2.1.2"
   },
   "devDependencies": {
     "@tailwindcss/jit": "^0.1.18",
     "autoprefixer": "^10.2.6",
-    "postcss": "^8.3.0"
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
   }
 }
